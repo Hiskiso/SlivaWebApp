@@ -10,6 +10,6 @@
 # Links
 - [ Sliva group ]( https://vk.com/club193821988 )
 - [ Sliva web ]( https://sliva5-web.web.app/ ) 
-- [ Sliva vk-mini-app ]( https://vk.com/app7392101 ) | [ GitHub ](https://github.com/Hiskiso/Sliva-3) /not working yet/ 
+- [ Sliva vk-mini-app ]( https://vk.com/app7392101 ) | [ GitHub ](https://github.com/Hiskiso/Sliva-3) 
 - [ Sliva invite app ]( https://vk.com/app7574662 ) | [ GitHub ]() 
 
